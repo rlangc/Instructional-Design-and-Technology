@@ -33,3 +33,7 @@ Graduates gained practical skills in:
 <h2></h2>
 
 For questions or collaboration, contact me at [Ryan.Lang.C@gmail.com](mailto:Ryan.Lang.C@gmail.com)
+
+<h2></h2>
+<p align="center">
+  <a href="https://github.com/rlangc"><b>Return to Home</b></a>
