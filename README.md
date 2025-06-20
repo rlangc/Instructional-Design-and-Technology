@@ -12,15 +12,24 @@ This repository documents my graduate work from the **Instructional Design and T
 
 ### About the Program
 
-The WVU IDT program integrates **instructional theory, research, and educational technology** to prepare designers for real-world learning environments. This work reflects applied learning across topics such as **program evaluation, visual literacy, social media integration, and instructional strategy**.
+The **Instructional Design and Technology (IDT) Master’s program at West Virginia University** was a research-based, application-focused graduate program that prepared students to design and deliver learning in online and hybrid environments. The program integrated **instructional theory**, **learning research**, and **educational technology**, preparing graduates to become adaptive, data-driven designers in education, corporate training, and government learning ecosystems.
+
+Although the program was formally **discontinued in 2023** following a university-wide academic transformation initiative, this repository documents the **rigorous coursework, applied projects, and instructional strategies** developed as part of the program.
+
+Graduates gained practical skills in:
+- Designing, developing, and implementing online and blended instruction  
+- Evaluating learning platforms and instructional systems  
+- Applying learning theories to real-world design challenges  
+- Integrating visual and multimedia literacy  
+- Addressing legal and ethical considerations in digital education  
 
 ### Highlights
 
 - 10 graduate courses completed  
-- 4.0 GPA in final terms  
+- 3.9 GPA in final terms  
 - Capstone projects and applied design work in eLearning, evaluation, and online instruction  
 - Tools used: **Articulate Storyline, Canvas LMS, Microsoft Teams, Adobe Creative Cloud, APA 7, SPSS**
 
----
+<h2></h2>
 
-📬 For questions or collaboration, contact me at [Ryan.Lang.C@gmail.com](mailto:Ryan.Lang.C@gmail.com)
+For questions or collaboration, contact me at [Ryan.Lang.C@gmail.com](mailto:Ryan.Lang.C@gmail.com)
