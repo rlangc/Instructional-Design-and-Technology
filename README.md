@@ -28,7 +28,7 @@ Graduates gained practical skills in:
 - 10 graduate courses completed  
 - 3.9 GPA in final terms  
 - Capstone projects and applied design work in eLearning, evaluation, and online instruction  
-- Tools used: **Articulate Storyline, Canvas LMS, Microsoft Teams, Adobe Creative Cloud, APA 7, SPSS**
+- Tools used: **Articulate Storyline, Blackboard LMS, Microsoft Teams, Adobe Creative Cloud, APA 7, SPSS**
 
 <h2></h2>
 
