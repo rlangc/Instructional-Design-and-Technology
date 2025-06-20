@@ -1,4 +1,4 @@
-## West Virginia University (WVU) - Instructional Design & Technology (IDT) Master’s Program Repository
+## West Virginia University (WVU) - Instructional Design & Technology (IDT) Master’s Program
 
 This repository documents my graduate work from the **Instructional Design and Technology (IDT) Master’s program at West Virginia University**. It includes coursework, projects, evaluations, and instructional technology artifacts developed between Fall 2019 and Spring 2022.
 
